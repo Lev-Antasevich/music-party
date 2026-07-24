@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3680312506",
+    "firebase_url": "https://music-party-efe83-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "music-party-efe83",
+    "storage_bucket": "music-party-efe83.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3680312506:android:e8bc602ed45386ca0ab683",
+        "android_client_info": {
+          "package_name": "com.example.musicparty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3680312506-i82010ogl1nuh1kodlvnctgmv6hkja77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musicparty",
+            "certificate_hash": "9211399db944f03bc09ed5dcdcb2ed3b5173c252"
+          }
+        },
+        {
+          "client_id": "3680312506-0u2mlmnte4sq0evutrem5n74brtjqvth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnNI3K9SDtmTBHYPu0YvZOmpX6uwf3a64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3680312506-0u2mlmnte4sq0evutrem5n74brtjqvth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
